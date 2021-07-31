@@ -1,0 +1,133 @@
+idea,date,media_type,media_creation,theme,user_number
+"휴식을 취할 목적으로, 자동차 공간 전체가 미디어가 되어 영상이 송출될 경우, 산, 여행지",7/13 화 20-22,video,consumer,rest,
+명상 프로그램 재생,7/16 금 13-15,video,consumer,rest,
+맞춤형 식사 (맛집 선택 및 픽업까지 맞춤형으로) 내가 자다가 일어날때 쯤 딱 음식이 나온다,7/17 토 11-13,service,consumer,rest,
+탑승자를 위한 숙면 유도 음악,7/14 수 20-22,music,consumer,rest,
+보조자가 자신의 시야를 탑승자와 공유할 수 있게 함,7/15 목 15-17,video,creator,in-car share,multiple
+"진정에 도움 되는 영상자료, 음악 재생",7/16 금 13-15,"music,video",consumer,rest,
+자연경치 미디어,7/16 금 13-15,video,consumer,landscape,
+명상에 대한 미디어 자연의 소리같은,7/16 금 13-15,music,consumer,landscape,
+"그 장소와 연관된 영상, 음악 재생",7/16 금 13-15,"video,music",consumer,landscape,
+"여행: 스트리트뷰 보기, 장소 관련interactive 데이터",7/13 화 20-22,info,consumer,landscape,
+"밥: 가는길에 드라이브 수르 주문, 메뉴 구경",7/13 화 20-22,info,consumer,rest,
+스트레스 해소,7/16 금 13-15,none,consumer,,
+자동차 체류 이후 스케줄을 고려하여 (이동한다면) 차창에 지도를 띄워 맛집 탐색하게 해주는 기능,7/15 목 15-17,info,consumer,info-search,
+"잔여기름, 연비 등 종합적으로 고려한 주유소 검색",7/17 토 11-13,info,consumer,info-search,
+취향과 장소 경로를 종합적으로 고려한 맛집 검색,7/17 토 11-13,info,consumer,info-search,
+취침,7/13 화 20-22,none,consumer,,
+빛을 차단하고 수면에 도움되는 음악을 틀어줌,7/16 금 13-15,music,consumer,rest,
+공간과 주행에 따라서,7/15 목 15-17,none,consumer,,
+스트레칭 영상 재생,7/16 금 13-15,video,consumer,rest,
+도로 위 요소에 대한 projection/mapping등으로 단조로울 수 있는 도로 환경을 더 다이나믹하게 만들 수 있는 그래픽 (프리셋을 활용할 수도 있고 사용자가 그릴 수도 있고),7/15 목 15-17,info,consumer,drive-experience,
+친구들이나 가족들과 전화하며 자동차 내부와 외부의 상황에 대해서 볼 수 있게 해주는 것,7/15 목 15-17,video,creator,in-car share,multiple
+운전 중 주변 환경 촬영 및 공유,7/16 금-2 19-21,video,creator,landscape,
+인스타 및 망고플레이트를 통한 맛집 및 핫플 검색,7/16 금-2 19-21,info,consumer,info-search,
+취침: 낮잠과 마찬가지로 스크린을 이용해 적절한 밝기 조절,7/13 화 20-22,service,consumer,,
+내 차량과 운전실력에 적합한 주차장 검색,7/17 토 11-13,info,consumer,info-search,
+웹서핑(필요한 내용 검색),7/17 토 11-13,info,consumer,info-search,
+편안한 식사,7/13 화 20-22,service,,,
+낮잠: 어두워지다가 적절한 시간에 밝아지면 좋겠다,7/13 화 20-22,none,consumer,,
+"창문을 통해 AR로 맛집 정보, 평점 제공",7/16 금 13-15,info,consumer,info-search,
+다른 차가 경로를 추천해 줌,7/16 금 13-15,info,consumer,car-to-car,multiple
+주변 맛집 사진 visualize,7/14 수 20-22,info,consumer,info-search,
+주변 가게 정보 확인,7/16 금-2 19-21,info,consumer,info-search,
+"가는 길에 식사, 커피 주문해서 차에서 먹기",7/13 화 20-22,service,consumer,,
+마사지 및 심신안정 차 제공 등,7/17 토 11-13,service,consumer,,
+간식거리 세팅/마치자판기처럼,7/17 토 11-13,service,consumer,,
+"목적지 맛집,할것 영상보기",7/14 수 20-22,info,consumer,info-search,
+차를 타고 여행할 때 랜드마크가 지나가면 관련된 미디어 경험을 제공,7/16 금 13-15,info,consumer,landscape,
+이전 방문기록들을 제공,7/16 금 13-15,info,consumer,info-search,
+목적지 주변 안내,7/17 토 11-13,info,consumer,info-search,
+미팅준비 등 업무와 유관한 영상,7/16 금 13-15,video,consumer,work,
+출퇴근: 취미를 위한 클래스 비디오,7/13 화 20-22,video,consumer,work,
+화상 회의,7/16 금-2 19-21,video,consumer,work,
+업무 관련 시청각 자료 시청,7/14 수 20-22,video,consumer,work,
+간단한 문서 및 자료출력기능,7/17 토 11-13,service,consumer,work,
+도착지 메뉴 추천,7/17 토 11-13,info,consumer,info-search,
+장소별 리뷰 확인하여 목적지 검색 및 이동 경로 설정,7/17 토 11-13,info,consumer,info-search,
+핸드폰 수준에서 작업 가능한 오피스 활동,7/16 금-2 19-21,info,creator,work,
+차량 내 업무데스크,7/16 금-2 19-21,service,consumer,work,
+노동요 배경음악,7/17 토 11-13,music,consumer,entertainment,
+"콘서트와 같은 분위기로 음악 감상(예컨대, 버스와 같이 대형차량에서는 가능할 것으로 예상됨) 페스티벌과 유사함",7/13 화 20-22,music,consumer,entertainment,
+AR/VR을 이용한 해외여행,7/17 토 11-13,AR/VR,consumer,entertainment,
+막간 영상,7/17 토 11-13,video,consumer,entertainment,
+뉴스,7/17 토 11-13,video,consumer,entertainment,
+차량 공간의 서라운딩 디스플레이 이용한 VR,7/14 수 20-22,AR/VR,consumer,entertainment,
+영상 시청,7/16 금-2 19-21,video,consumer,entertainment,
+음악을 크게 틀었으면 좋겠다,7/13 화 20-22,music,consumer,entertainment,
+영상 통화 및 ZOOM을 이용한 화상 회의,7/16 금-2 19-21,video,consumer,work,
+음악을 콘서트에 있는 것처럼,7/13 화 20-22,music,consumer,entertainment,
+드랍박스 및 구글 드라이브와의 연동을 통한 서류 작업,7/16 금-2 19-21,seamless,creator,work,
+음악 플레이리스트를 만들어서 추천해주는 것,7/15 목 15-17,music,consumer,entertainment,
+조수석 DJ에게 보내는 음악 신청 채널 (동승자들 외에도 주변 차량과도 공유 가능할듯),7/15 목 15-17,music,creator,in-car share,multiple
+웨비나 또는 온라인 콘서트 참여,7/16 금 13-15,video,consumer,work,
+노래방,7/17 토 11-13,music,consumer,entertainment,
+스케줄러 작성,7/17 토 11-13,service,creator,work,
+영화/드라마 싱크 관람,7/17 토 11-13,video,consumer,entertainment,
+"처음 가는 도로에 주변 환경 인지를 도와줄 수 있는 AR. (""저 건물은 1940년에 지어진 구 청사입니다"")",7/15 목 15-17,info,consumer,drive-experience,
+비행기 VR,7/16 금-2 19-21,AR/VR,consumer,entertainment,
+영화 동영상 관람,7/13 화 20-22,video,consumer,entertainment,
+영화스트리밍,7/16 금-2 19-21,video,consumer,entertainment,
+캠핑을 즐기는 도중 영화관처럼 사용,7/14 수 20-22,video,consumer,entertainment,
+노래방 시스템(앞유리창이 스크린으로),7/13 화 20-22,music,consumer,entertainment,
+공연 참여,7/16 금-2 19-21,music,consumer,entertainment,
+유튜브(숏 컨텐츠) 시청,7/17 토 11-13,video,consumer,entertainment,
+별자리 감상,7/16 금-2 19-21,video,consumer,entertainment,
+드라마(롱 컨텐츠) 시청,7/17 토 11-13,video,consumer,entertainment,
+울퉁불퉁한 길을 달리면서 발생하는 힘/햅틱 자극에 맞는 영상 시청,7/14 수 20-22,haptic,consumer,entertainment,
+AR을 이용한 메타버스 아바타 꾸미기,7/17 토 11-13,AR/VR,creator,entertainment,
+영화 관람,7/17 토 11-13,video,consumer,entertainment,
+영화감상 (스크린 띄워서),7/13 화 20-22,video,consumer,entertainment,
+캠프 파이어 등 캠핑 분위기와 어울리는 조명 및 분위기 연출,7/16 금-2 19-21,video,consumer,entertainment,
+인스타 영상 공유,7/14 수 20-22,video,creator,social media,
+음성 인식을 통한 sns 활동 (업로드 및 타 게시물 확인),7/17 토 11-13,social,creator,social media,
+"영유아의 이목을 끌기 위한 맞춤 영상(e.g., 핑크퐁) 관람",7/15 목 15-17,video,consumer,entertainment,
+잠이 오거나 지루해질 때마다 차창에 AR로 재미있는 영상(?) 띄워주기,7/15 목 15-17,AR/VR,consumer,drive-experience,
+유튜브 나중에 볼 동영상 틀어줬으면 좋겠다.,7/15 목 15-17,video,consumer,entertainment,
+"영상 (넷플릭스, 유투브, 페이스북 등) 시청",7/16 금-2 19-21,video,consumer,entertainment,
+노래반주 틀어놓고 같이 부르기,7/14 수 20-22,music,consumer,"in-car share,entertainment",multiple
+다른 차량과의 합주(?),7/16 금 13-15,music,creator,car-to-car,multiple
+"주변의 범위 내 차량끼리 소셜 그룹 형성 (음악 재생, 클하같은 라방 등등 자유롭게 컨텐츠 공유)",7/15 목 15-17,music,creator,car-to-car,multiple
+영화/드라마 감상,7/17 토 11-13,video,consumer,entertainment,
+웃긴 짤이나 글을 같이 보기,7/14 수 20-22,social,consumer,in-car share,multiple
+"게임, 스포츠, 영화 콘텐츠 제공",7/16 금 13-15,"game,video",consumer,entertainment,
+시청각적 화려함 (현재 VR체험기 같은),7/17 토 11-13,AR/VR,consumer,entertainment,
+"맞춤 영상 제공 (영상 자체가 내가 좋아하는 영상과 나의 운전상황 (주행, 제동 등)과 결합하여 실시간으로 나만을 위한 영상이 제공됨",7/17 토 11-13,video,consumer,recommendation,
+잠을 깨기 위한 햅틱 피드백,7/16 금-2 19-21,haptic,consumer,drive-experience,
+119 자동연락 + 주변 차량에 도로 상황 안내 + 블랙박스 영상 자동 전송,7/17 토 11-13,info,consumer,drive-experience,
+아이스브레이킹,7/16 금 13-15,none,,,
+"차량 앞,뒤, 좌우의 화면 공유",7/16 금 13-15,video,consumer,in-car share,multiple
+탑승자와 같이 유투브 영상보기,7/14 수 20-22,video,consumer,in-car share,multiple
+서로 오디오를 연결하여 같은 차를 탄 것처럼 대화 지원,7/16 금 13-15,audio,consumer,car-to-car,multiple
+주변 차량과의 감정 소통(no 대화),7/16 금 13-15,video,creator,car-to-car,multiple
+불편/불쾌하게 다가올 수 있는 차량의 움직임을 게임요소로 활용하는 경험 (급감속이 말이 되는 context를 제공),7/15 목 15-17,game,consumer,car-to-car,multiple
+그룹이 공감할 수 있는 컨텐츠 선택을 위한 투표/구성원의 의견 표현 등 공유 미디어 선택 조율,7/15 목 15-17,service,creator,"in-car share,recommendation",multiple
+생소한 사람을 알아갈 수 있는 20문20답 보조,7/15 목 15-17,service,consumer,in-car share,multiple
+같은 게임하기,7/14 수 20-22,game,consumer,in-car share,multiple
+차대차 게임,7/17 토 11-13,game,consumer,car-to-car,multiple
+플레이 타임이 짧은  Ar 게임,7/15 목 15-17,"AR/VR,game",consumer,entertainment,multiple
+영화 관람이나 VR게임과 같은 참여형 게임,7/15 목 15-17,"AR/VR,game",consumer,in-car share,multiple
+어색함을 깰 수 있는 정도의 킬링타임용 아주 간단한 미니게임 (피카츄배구 수준),7/15 목 15-17,game,consumer,entertainment,multiple
+운전자/조수석에 앉은 사람과 뒷좌석이 서로 핑퐁하며 주고받는 시각효과(?) 댕댕이가 좋아할지도,7/15 목 15-17,video,creator,in-car share,multiple
+차량의 움직임과 결합된 VR게임,7/17 토 11-13,"AR/VR,game",consumer,entertainment,
+레이싱게임,7/17 토 11-13,game,consumer,entertainment,
+대전 또는 협업게임,7/17 토 11-13,game,consumer,entertainment,multiple
+진지한 대화,7/16 금 13-15,none,none,none,none
+조용한 대화,7/16 금 13-15,none,none,none,none
+프라이빗한 대화,7/13 화 20-22,none,none,none,none
+운동,7/16 금 13-15,none,none,none,none
+그림그리기,7/16 금-2 19-21,none,none,none,none
+나만의 비서 (자비스),7/17 토 11-13,none,none,none,none
+레슨 수강,7/16 금-2 19-21,none,none,none,none
+쇼핑,7/16 금-2 19-21,none,none,none,none
+포스트 아이폰,7/13 화 20-22,none,none,none,none
+장보기,7/16 금-2 19-21,none,none,none,none
+종교활동,7/16 금-2 19-21,none,none,none,none
+원격 진료,7/16 금-2 19-21,none,none,none,none
+악기 연주,7/16 금-2 19-21,none,none,none,none
+태양광판넬활용 -에너지변환,7/17 토 11-13,none,none,none,none
+차량 피팅룸,7/16 금-2 19-21,none,none,none,none
+촉각혹은 후각 경험 제공 (차안에 존재),7/17 토 11-13,none,none,none,none
+체크인,7/17 토 11-13,none,none,none,none
+스트레스 해소,7/16 금 13-15,none,none,none,none
+iot접목,7/17 토 11-13,none,none,none,none
