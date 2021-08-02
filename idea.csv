@@ -1,7 +1,7 @@
 idea,date,media_type,media_creation,theme,user_number
 "휴식을 취할 목적으로, 자동차 공간 전체가 미디어가 되어 영상이 송출될 경우, 산, 여행지",7/13 화 20-22,video,consumer,rest,
 명상 프로그램 재생,7/16 금 13-15,video,consumer,rest,
-맞춤형 식사 (맛집 선택 및 픽업까지 맞춤형으로) 내가 자다가 일어날때 쯤 딱 음식이 나온다,7/17 토 11-13,service,consumer,rest,
+맞춤형 식사 (맛집 선택 및 픽업까지 맞춤형으로) 내가 자다가 일어날때 쯤 딱 음식이 나온다,7/17 토 11-13,none,consumer,rest,
 탑승자를 위한 숙면 유도 음악,7/14 수 20-22,music,consumer,rest,
 보조자가 자신의 시야를 탑승자와 공유할 수 있게 함,7/15 목 15-17,video,creator,in-car share,multiple
 "진정에 도움 되는 영상자료, 음악 재생",7/16 금 13-15,"music,video",consumer,rest,
@@ -25,15 +25,15 @@ idea,date,media_type,media_creation,theme,user_number
 취침: 낮잠과 마찬가지로 스크린을 이용해 적절한 밝기 조절,7/13 화 20-22,service,consumer,,
 내 차량과 운전실력에 적합한 주차장 검색,7/17 토 11-13,info,consumer,info-search,
 웹서핑(필요한 내용 검색),7/17 토 11-13,info,consumer,info-search,
-편안한 식사,7/13 화 20-22,service,,,
+편안한 식사,7/13 화 20-22,none,,,
 낮잠: 어두워지다가 적절한 시간에 밝아지면 좋겠다,7/13 화 20-22,none,consumer,,
 "창문을 통해 AR로 맛집 정보, 평점 제공",7/16 금 13-15,info,consumer,info-search,
 다른 차가 경로를 추천해 줌,7/16 금 13-15,info,consumer,car-to-car,multiple
 주변 맛집 사진 visualize,7/14 수 20-22,info,consumer,info-search,
 주변 가게 정보 확인,7/16 금-2 19-21,info,consumer,info-search,
-"가는 길에 식사, 커피 주문해서 차에서 먹기",7/13 화 20-22,service,consumer,,
-마사지 및 심신안정 차 제공 등,7/17 토 11-13,service,consumer,,
-간식거리 세팅/마치자판기처럼,7/17 토 11-13,service,consumer,,
+"가는 길에 식사, 커피 주문해서 차에서 먹기",7/13 화 20-22,none,consumer,,
+마사지 및 심신안정 차 제공 등,7/17 토 11-13,none,consumer,,
+간식거리 세팅/마치자판기처럼,7/17 토 11-13,none,consumer,,
 "목적지 맛집,할것 영상보기",7/14 수 20-22,info,consumer,info-search,
 차를 타고 여행할 때 랜드마크가 지나가면 관련된 미디어 경험을 제공,7/16 금 13-15,info,consumer,landscape,
 이전 방문기록들을 제공,7/16 금 13-15,info,consumer,info-search,
@@ -102,7 +102,7 @@ AR을 이용한 메타버스 아바타 꾸미기,7/17 토 11-13,AR/VR,creator,en
 주변 차량과의 감정 소통(no 대화),7/16 금 13-15,video,creator,car-to-car,multiple
 불편/불쾌하게 다가올 수 있는 차량의 움직임을 게임요소로 활용하는 경험 (급감속이 말이 되는 context를 제공),7/15 목 15-17,game,consumer,car-to-car,multiple
 그룹이 공감할 수 있는 컨텐츠 선택을 위한 투표/구성원의 의견 표현 등 공유 미디어 선택 조율,7/15 목 15-17,service,creator,"in-car share,recommendation",multiple
-생소한 사람을 알아갈 수 있는 20문20답 보조,7/15 목 15-17,service,consumer,in-car share,multiple
+생소한 사람을 알아갈 수 있는 20문20답 보조,7/15 목 15-17,game,consumer,in-car share,multiple
 같은 게임하기,7/14 수 20-22,game,consumer,in-car share,multiple
 차대차 게임,7/17 토 11-13,game,consumer,car-to-car,multiple
 플레이 타임이 짧은  Ar 게임,7/15 목 15-17,"AR/VR,game",consumer,entertainment,multiple
